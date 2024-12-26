@@ -1,0 +1,61 @@
+@media only screen and (min-width:200px) and (max-width:575px) {
+    .btn-outer{
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        justify-content: center !important;
+    }
+    figure img{
+    width: 237px;
+    height: 181px;
+}
+    .btnwhatassp, .btncall{
+        padding: 7px 15px;
+        font-size: 14px;
+    }
+    .bannaircontant h1 {
+        font-size: 30px;
+        font-weight: 700;
+        text-align: center;
+        line-height: 38px;
+        
+    }
+    .bannaircontant br{
+        display: none;
+    }
+    .bannaircontantbtn{
+        font-size: 10px;
+    }
+    .bannaircontantbtn{
+        flex-direction: column;
+    }
+    .bannaircontantbtn button{
+        width: 100%;
+    }
+    .bannarform h3{
+        padding: 20px;
+    }
+    .highlights-section h2{
+     
+        font-size: 20px;
+    
+    }
+    .btnbook{
+        width: 100%;
+        border-radius: 8px;
+        color: white;
+        padding: 10px 15px;
+        background: linear-gradient(to right, #0acefe, #2699fb);
+    }
+    .bannair h1{
+        font-size:  27px;
+        font-weight: 700;
+        color: #0a1234;
+        width: 600px;
+    }
+    .markiting h2{
+        font-size: 29px;
+        font-weight: bolder;
+     }
+}

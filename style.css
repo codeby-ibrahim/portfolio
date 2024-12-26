@@ -1,0 +1,109 @@
+*{
+    font-family: "Poppins", serif;
+}
+
+figure img{
+    margin-top: 12px;
+    width: 80px;
+    height: 73px;
+
+}
+.btnwhatassp{
+    border: 1px solid #27ae60;
+    padding: 10px 18px;
+    color: #27ae60;
+    border-radius: 8px;
+    font-size: 16px;
+}
+.btnwhatassp i{
+   color: #27ae60;
+}
+.btncall{
+    border-radius: 8px;
+    color: white;
+    padding: 10px 18px;
+    background: linear-gradient(to right, #0acefe, #2699fb);
+}
+.bannaircontant h1 {
+    font-size: 52px;
+    font-weight: 700;
+
+}
+.bannaircontant p{
+    font-size: 22px;
+}
+.bannaircontant h1 span{
+    color: #2699fb;
+}
+.bannaircontant ul{
+    list-style: none;
+}
+.bannarform{
+    /* padding: 40%; */
+    border-radius: 16px;
+}
+.bannaircontantbtn button{
+   width: 50%;
+   padding: 10px 0px;
+   border-radius: 5px;
+  
+}
+.bannaircontantbtn button:first-child{
+color: white;
+   background:linear-gradient(to right, #0acffe, #2699f9);
+}
+.bannarform h3{
+    font-size: 18px;
+}
+.rigbtn{
+    width: 100%;
+    padding: 10px 0px;
+    background:linear-gradient(to right, #0acffe, #2699f9);
+    color: white;
+
+}
+.contarsection h2{
+    font-size: 30px;
+    font-weight: bold;
+    color: #2699f9;
+}
+.highlights-section{
+    background-color: #f7faff;
+}
+.highlights-section h2{
+    color: #0a1234;
+    font-size: 30px;
+    font-weight: bold;
+}
+.highlights-section p{
+  font-size: 15px;
+}
+.icon img{
+    width: 90px;
+    height: 70px;
+}
+.btnbook{
+    width: 50%;
+    border-radius: 8px;
+    color: white;
+    padding: 10px 15px;
+    background: linear-gradient(to right, #0acefe, #2699fb);
+}
+.bannair h1{
+    font-size: 30px;
+    font-weight: 700;
+    color: #0a1234;
+     width: 500px;
+}
+.markiting img{
+    width: 80px;
+    height: 70px;
+}
+.markiting h2{
+   font-size: 25px;
+   font-weight: bolder;
+}
+.markiting p{
+   font-size: 15px;
+   
+ }
