@@ -1,6 +1,9 @@
 *{
     font-family: "Poppins", serif;
 }
+body{
+    background-color: #fcfbff;
+}
 
 figure img{
     margin-top: 12px;
@@ -108,18 +111,23 @@ color: white;
    
  }
  .footer-section{
-    background-color: #0c1e5e;
-    color: white;
+    background-color:#f8f9fa;
+    color: #454d54;
  }
  .footer-section h4{
     font-size: 30px;
     font-weight: 600;
  }
  .footer-section h2{
-    /* font-size: 25px; */
+    font-size: 1.52rem;
  }
  .footer-section ul li{
     font-size: 15px;
     list-style: none;
  }
+ .anmation{
+    color: white;
+    background-color: #958585;
+ }
+ .contercontainermarkiting
  
